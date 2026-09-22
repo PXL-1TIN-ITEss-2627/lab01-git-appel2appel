@@ -8,8 +8,9 @@ You will not write any code here. Everything is plain text, because this lab is 
 
 Replace this section with your names once you get to the lab.
 
-- Student A: *your name here*
-- Student B: *your name here*
+- Student A: dries
+- Student B: ian
+- Student C: kyle
 
 ## What is in here
 
